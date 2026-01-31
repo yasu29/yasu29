@@ -18,6 +18,8 @@ cron 実行を前提とした bash スクリプトの作成や、
 dry-run / execute 対応、二重起動防止、exit code 管理を備えた
 運用向けシェルスクリプトです。
 
+運用現場での「誤削除防止」「cron 安定実行」を想定して設計しています。
+
 👉 https://github.com/yasu29/cleanup-logs-shell
 
 ## ✍️ Policy
